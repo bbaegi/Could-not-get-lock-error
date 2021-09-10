@@ -1,4 +1,4 @@
-# 'Could not get lock /var/lib/dpkg/lock-frontend' error in Linux
+# 'Could not get lock /var/lib/dpkg/lock-frontend' error in Ubuntu 18.04
 
 ## 1. Kill all apt-get process
 
